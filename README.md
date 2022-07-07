@@ -4,29 +4,33 @@ How you can get help for an immediate services from the technician for your hp p
 
 Find the appropriate software for hp printers from hp.com/123. Listen the technician voice and see what he can do from unboxing to software download.
 
-# hp.com/123 unboxing printer
+## <a href="http://hewlettpackard.ijstartscannon.us/">hp.com/123</a> process:- 
+
+### unboxing printer
 If you have purchase a new hp all in one printer series for home and business and have a trouble that how to setup?. Then hp.com/123 website will help you to unboxing your hp printers.
-## Install ink
+
+### Install ink
 when you remove the box from printer then you can get an ink bottels. we will teach you how to refill the all the ink bottel in ink tank.
+
 ### Software downloads
-Selecting the right software for your hp printers is necessary. go to <a href="http://hewlettpackard.ijstartscannon.us/">hp.com/123</a>
-- Bulleted
-- List
+Selecting the right software for your hp printers is necessary. 
+- HP Color LaserJet Drivers
+- HP LaserJet Drivers
+- HP DesignJet Drivers
+- HP DeskJet Drivers
+- HP OfficeJet Drivers
+- HP Photosmart Drivers
 
-1. Numbered
-2. List
+Please be aware that each of the models of Hewlett-Packard printers comes with different features, user interface designs, and printing capabilities. To learn about the capabilities of your particular HP printer model, we fully recommend to consult your printer manual or seek additional information on the official HP website.
 
-**Bold** and _Italic_ and `Code` text
+Go to the <a href="http://hewlettpackard.ijstartscannon.us/">hp.com/123</a> website and type of the your printer model number in a search bar and then select for download.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/httpsetupp/hp.com-123-Drivers-123.hp.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Install the drivers for hp printers
+- Power off your device.
+- Disconnect the device from your computer.
+- Reconnect the device and power it on.
+- Double click the driver download to extract it.
+- If a language option is given, select your language.
+- Follow the directions on the installation program screen.
+- Reboot your computer.
+Hassel free to visit at <a href="http://hewlettpackard.ijstartscannon.us/">hp.com/123</a> website.
