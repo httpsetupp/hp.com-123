@@ -6,6 +6,8 @@ Find the appropriate software for hp printers from hp.com/123. Listen the techni
 
 ## <a href="http://hewlettpackard.ijstartscannon.us/">hp.com/123</a> process:- 
 
+![image](https://repository-images.githubusercontent.com/507990935/9bd3b7d8-dc0f-4a8f-a4d3-a1c260f97d57)
+
 ### unboxing printer
 If you have purchase a new hp all in one printer series for home and business and have a trouble that how to setup?. Then hp.com/123 website will help you to unboxing your hp printers.
 
