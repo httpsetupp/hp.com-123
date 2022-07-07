@@ -1,19 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to hp.com/123
+How you can get help for an immediate services from hp.com/123 for hp printers
+### hp.com/123 softwares
 
-You can use the [editor on GitHub](https://github.com/httpsetupp/hp.com-123-Drivers-123.hp.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Find the appropriate software for hp printers from hp.com/123. Listen the technician voice and see what he can do from unboxing to software download.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+# hp.com/123 unboxing printer
+## hp.com/123 install ink
+### hp.com/123 software downloads
 
 - Bulleted
 - List
