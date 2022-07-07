@@ -1,4 +1,4 @@
-## hp.com/123 Drivers | 123.hp.com
+## hp.com/123
 How you can get help for an immediate services from the technician for your hp printers
 ### hp.com/123 softwares
 
